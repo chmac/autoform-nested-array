@@ -9,3 +9,5 @@ autopublish
 insecure
 aldeed:collection2
 aldeed:autoform
+coffeescript
+twbs:bootstrap
